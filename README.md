@@ -9,7 +9,7 @@ I want to open a Bank Account
 
 As a Bank customer
 So that I can sleep peacefully at night
-I want to make a deposit
+I want to deposit my money on the account
 
 As a Bank customer
 So that I can spend my money

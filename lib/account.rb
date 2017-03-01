@@ -1,6 +1,8 @@
-class Account
+require_relative 'statement'
 
-  attr_reader :balance, :history
+class Account
+  include Statement
+  attr_accessor :balance, :history
 
   def initialize
     @balance = 0
@@ -16,5 +18,4 @@ class Account
     @history << Transaction.new(-amount)
     @balance -= amount
   end
-
 end
