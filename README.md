@@ -32,5 +32,6 @@ date       || credit || debit   || balance ||
 ### Use
 ```
 $ git clone ...
+$ bundle install
 $ cd BankTechTest
 ``
