@@ -23,7 +23,7 @@ I want to print my Bank Account statement.
 
 #### Download
 ```
-$ git clone ...
+$ git clone git@github.com:kpuwal/bank_tech_test.git
 $ bundle install
 $ cd BankTechTest
 ```
