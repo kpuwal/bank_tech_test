@@ -7,7 +7,6 @@
 **Then** she would see
 
 ### User Stories
-
 ```
 As a Bank customer
 So that I can manage my finances
@@ -22,7 +21,6 @@ So that I can control my budget
 I want to print my Bank Account statement.
 ```
 
-### Use
 #### Download
 ```
 $ git clone ...
