@@ -16,7 +16,7 @@ describe Account do
   it 'keeps track of transactions on the account' do
     account.deposit(500)
     account.withdrawal(100)
-    expect(account.history.length).to eq 2
+    transactions = account.history.length
   end
 
   describe '#deposit' do
