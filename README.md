@@ -18,14 +18,14 @@ I want to make a withdrawal
 
 As a Bank customer
 So that I can control my budget
-I want to print my Bank Account statement.
+I want to print my bank account statement.
 ```
 
 #### Download
 ```
 $ git clone git@github.com:kpuwal/bank_tech_test.git
 $ bundle install
-$ cd BankTechTest
+$ cd bank_tech_test
 ```
 #### Interact
 ```
